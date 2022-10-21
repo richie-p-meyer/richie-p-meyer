@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm Richard Meyer and I am passionate about learning Data Science. It's going to open so many doors for me and allow me to do so much good!
 
 <!--
 **richie-p-meyer/richie-p-meyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
