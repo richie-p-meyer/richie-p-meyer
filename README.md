@@ -1,5 +1,5 @@
-### Hello! I'm Richard Meyer and I am passionate about learning Data Science. 
-#####It's going to open so many doors for me and allow me to do so much good!
+## Hello! I'm Richard Meyer and I am passionate about learning Data Science. 
+###It's going to open so many doors for me and allow me to do so much good!
 
 -I’m currently working on using Github
 -I’m currently learning Data Science in 6 months!
