@@ -19,7 +19,7 @@ Now building and debugging distributed data systems, automation, and reliability
 Resiliency helpers for data pipelines: retry/backoff, schema validation, dead-letter capture, log enrichment.
 - **Stack:** Python, Pandas, Pydantic/Marshmallow, Requests/Playwright
 - **Highlights:** early-fail input validation, consistent error taxonomy, CLI for rapid triage
-- **Link:** `TODO: add repo link`
+- **Link:** https://github.com/richie-p-meyer/pipeline_reliability_toolkit
 
 ### 2) Scraper Guardrails for Shifting Sources
 Fault-tolerant web data acquisition that survives HTML/API changes and rate limits.
