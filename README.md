@@ -1,31 +1,77 @@
-<h1 align="center">Hi 👋, I'm Richie</h1>
-<h3 align="center">Data Scientist Seeking Full-Time Position near Greeley, CO | Python, SQL, Tableau, ML</h3>
+# Richard Wilders — SRE-Track Engineer (Python • SQL • Reliability)
 
-- 🔭 I’m currently working on [NBA Sports Betting](https://github.com/richie-p-meyer/nba_sports_betting)
+**Sparks, NV • On-site & on-call ready**  
+Marine Corps veteran (Afghanistan deployment) → incident leadership under real pressure.  
+Now building and debugging distributed data systems, automation, and reliability tooling in **Python/SQL** with a clear path to **SRE/DevOps**.
 
-- 🌱 I’m currently learning **Machine Learning, NLP, Tensorflow**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/richie-p-meyer](https://github.com/richie-p-meyer)
+## What I Do
+- **Troubleshoot complex systems:** trace failures across ingestion → transforms → storage → apps
+- **Automate & harden:** Python utilities for health checks, retries, validation, and log analysis
+- **Make systems observable:** structured logging, metrics, and quick root-cause workflows
+- **Operate under pressure:** calm incident response and clear comms during outages
 
-- 💬 Ask me about **ultra-running, Vipassana meditation, modeling**
+---
 
-- 📫 How to reach me **richard16meyer@gmail.com**
+## Featured Projects
+### 1) Pipeline Reliability Toolkit (Python)
+Resiliency helpers for data pipelines: retry/backoff, schema validation, dead-letter capture, log enrichment.
+- **Stack:** Python, Pandas, Pydantic/Marshmallow, Requests/Playwright
+- **Highlights:** early-fail input validation, consistent error taxonomy, CLI for rapid triage
+- **Link:** `TODO: add repo link`
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1fyQGKWdyS_HkIvrYGiIRZ-gbcnS5LT1w4wHN1H8R_Q8/edit](https://docs.google.com/document/d/1fyQGKWdyS_HkIvrYGiIRZ-gbcnS5LT1w4wHN1H8R_Q8/edit)
+### 2) Scraper Guardrails for Shifting Sources
+Fault-tolerant web data acquisition that survives HTML/API changes and rate limits.
+- **Stack:** Python, Playwright, BeautifulSoup, concurrency
+- **Highlights:** anti-fragile selectors, health pings, diff-based detectors, exponential backoff
+- **Link:** `TODO: add repo link`
 
-- ⚡ Fun fact **I'm learning to play fiddle - I want to play in a Bluegrass band!**
+### 3) Churn ML Pipeline — Prod-Style Layout
+End-to-end pipeline for 10k+ records with modular steps, checkpoints, and monitoring hooks.
+- **Stack:** Python, NumPy, scikit-learn, Matplotlib
+- **Highlights:** reproducible runs, drift checks, schema/version snapshots
+- **Link:** `TODO: add repo link`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/richard-meyer-915395106/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/richard-meyer-915395106/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/richie_p_meyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="richie_p_meyer" height="30" width="40" /></a>
-</p>
+### 4) LogLens — Quick Root-Cause Explorer
+Small CLI to slice logs by time/window/request-id, surface anomaly patterns, and compare healthy vs failing runs.
+- **Stack:** Python, rich/typer (CLI), regex, JSONL
+- **Highlights:** “last-known-good vs failing” diff, latency spike finder
+- **Link:** `TODO: add repo link`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richie-p-meyer&show_icons=true&locale=en&layout=compact" alt="richie-p-meyer" /></p>
+## Evidence of Excellence
+- **USMC, Afghanistan — mission-critical leadership:** led **40–50 linguists**; time-sensitive ops where actions impacted Marines’ safety. Calm, decisive incident command.
+- **Rubik’s Cube innovation:** early **Roux** method tutorials (tens of thousands of views); created the **Meyer Method (4×4)** adopted by top solvers; helped organize **US Nationals 2012** and **Worlds 2013** (Las Vegas).
+- **50-mile ultramarathon (undiagnosed Type 1 diabetes):** finished despite severe physical collapse; diagnosed 3 weeks later. Extreme grit under adversity.
+- **Ten 10-day Vipassana courses:** 100+ hours per retreat, deep discipline and equanimity under internal/external stress.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richie-p-meyer&show_icons=true&locale=en" alt="richie-p-meyer" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richie-p-meyer&" alt="richie-p-meyer" /></p>
+## Skills
+**Languages/Tools:** Python, SQL, Git/GitHub, Bash/CLI, Jira, basic Splunk  
+**Concepts:** distributed pipelines, monitoring/alerting, incident response, root-cause analysis, dependency mapping  
+**Python:** Pandas, NumPy, scikit-learn, BeautifulSoup, Playwright, matplotlib
+
+---
+
+## Now Learning / Next Up
+- Prometheus/Grafana basics, alert design, SLO/SLA thinking  
+- Python observability patterns (structured logs, trace IDs)  
+- Infra fundamentals (containers, networking, connection pools)
+
+---
+
+## Hire Me For
+- **SRE/DevOps track** (support → SRE growth)  
+- **Production troubleshooting & incident response**  
+- **Python automation for reliability**  
+- **On-site, on-call** at Gigafactory Nevada (Sparks)
+
+---
+
+## Contact
+- **Email:** richiewilders@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/richard-meyer-915395106  
+- **Location:** Sparks / Reno, NV
