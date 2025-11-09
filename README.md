@@ -37,7 +37,7 @@ End-to-end pipeline for 10k+ records with modular steps, checkpoints, and monito
 Small CLI to slice logs by time/window/request-id, surface anomaly patterns, and compare healthy vs failing runs.
 - **Stack:** Python, rich/typer (CLI), regex, JSONL
 - **Highlights:** “last-known-good vs failing” diff, latency spike finder
-- **Link:** `TODO: add repo link`
+- **Link:** https://github.com/richie-p-meyer/loglens
 
 ---
 
