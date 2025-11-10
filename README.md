@@ -31,7 +31,7 @@ Fault-tolerant web data acquisition that survives HTML/API changes and rate limi
 End-to-end pipeline for 10k+ records with modular steps, checkpoints, and monitoring hooks.
 - **Stack:** Python, NumPy, scikit-learn, Matplotlib
 - **Highlights:** reproducible runs, drift checks, schema/version snapshots
-- **Link:** `TODO: add repo link`
+- **Link:** https://github.com/richie-p-meyer/ml_churn_pipeline  
 
 ### 4) LogLens — Quick Root-Cause Explorer
 Small CLI to slice logs by time/window/request-id, surface anomaly patterns, and compare healthy vs failing runs.
