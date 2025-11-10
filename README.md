@@ -25,7 +25,7 @@ Resiliency helpers for data pipelines: retry/backoff, schema validation, dead-le
 Fault-tolerant web data acquisition that survives HTML/API changes and rate limits.
 - **Stack:** Python, Playwright, BeautifulSoup, concurrency
 - **Highlights:** anti-fragile selectors, health pings, diff-based detectors, exponential backoff
-- **Link:** `TODO: add repo link`
+- **Link:** https://github.com/richie-p-meyer/scraper_guardrails
 
 ### 3) Churn ML Pipeline — Prod-Style Layout
 End-to-end pipeline for 10k+ records with modular steps, checkpoints, and monitoring hooks.
