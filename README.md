@@ -64,7 +64,7 @@ Statistical analysis examining factors influencing scoring environments in NHL g
 - Implemented **time-series validation** to prevent data leakage
 - Achieved **R² ≈ 0.89 on unseen test data**
 
-  Project repository: https://github.com/richie-p-meyer/capstone_project
+Project repository: https://github.com/richie-p-meyer/capstone_project
 
 ---
 
@@ -77,7 +77,7 @@ Predictive modeling project forecasting vote share for major NBA awards.
 - Compared **Ridge regression and Gradient Boosting models**
 - Implemented time-based validation for realistic forecasting
 
-  Project repository: https://github.com/richie-p-meyer/nba_awards
+Project repository: https://github.com/richie-p-meyer/nba_awards
 
 ---
 
@@ -90,7 +90,7 @@ Predictive analysis examining patterns in hotel booking cancellations.
 - Achieved **AUC ≈ 0.92**
 - Identified operational drivers of cancellation behavior
 
-➡ Project repository: *(link here)*
+Project repository: https://github.com/richie-p-meyer/hotel-booking-cancellation-prediction
 
 ---
 
@@ -103,7 +103,7 @@ Data governance project preparing healthcare data for secure external audit.
 - Evaluated privacy exposure using **k-anonymity principles**
 - Produced secure datasets suitable for regulatory auditing
 
-➡ Project repository: *(link here)*
+Project repository: https://github.com/richie-p-meyer/health_insurance_anonymization
 
 ---
 
