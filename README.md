@@ -1,77 +1,148 @@
-# Richard Wilders — SRE-Track Engineer (Python • SQL • Reliability)
+# Richard Wilders
 
-**Sparks, NV • On-site & on-call ready**  
-Marine Corps veteran (Afghanistan deployment) → incident leadership under real pressure.  
-Now building and debugging distributed data systems, automation, and reliability tooling in **Python/SQL** with a clear path to **SRE/DevOps**.
+**Data Analysis | Systems Analysis | Analytical Research**
+
+Carson City, Nevada  
+U.S. Marine Corps Veteran | Former Signals Intelligence Analyst  
+M.S. Data Science (Expected 2026)
 
 ---
 
-## What I Do
-- **Troubleshoot complex systems:** trace failures across ingestion → transforms → storage → apps
-- **Automate & harden:** Python utilities for health checks, retries, validation, and log analysis
-- **Make systems observable:** structured logging, metrics, and quick root-cause workflows
-- **Operate under pressure:** calm incident response and clear comms during outages
+## About Me
+
+I am an analytical professional focused on using **data analysis, statistical modeling, and systems thinking** to understand complex problems and support better decision-making.
+
+My background combines:
+
+- military intelligence analysis  
+- graduate-level data science training  
+- statistical and machine learning analysis  
+- technical communication and reporting  
+
+Before transitioning into data science, I served as a **Signals Intelligence Analyst in the U.S. Marine Corps**, where I analyzed large intelligence datasets and produced analytical reports supporting mission-critical operations.
+
+Today I apply those analytical skills to **data science, research, and predictive modeling projects** using Python and modern data analysis tools.
+
+---
+
+## Technical Skills
+
+**Programming**
+
+Python • SQL • Bash
+
+**Data Analysis**
+
+Pandas • NumPy • Statistical Analysis • Exploratory Data Analysis
+
+**Machine Learning**
+
+scikit-learn • XGBoost • Regression • Classification
+
+**Data Engineering**
+
+APIs • Web Scraping (Playwright, BeautifulSoup) • ETL Pipelines
+
+**Visualization**
+
+Matplotlib • Tableau
+
+**Tools**
+
+Git • Jupyter • MySQL • Excel
 
 ---
 
 ## Featured Projects
-### 1) Pipeline Reliability Toolkit (Python)
-Resiliency helpers for data pipelines: retry/backoff, schema validation, dead-letter capture, log enrichment.
-- **Stack:** Python, Pandas, Pydantic/Marshmallow, Requests/Playwright
-- **Highlights:** early-fail input validation, consistent error taxonomy, CLI for rapid triage
-- **Link:** https://github.com/richie-p-meyer/pipeline_reliability_toolkit
 
-### 2) Scraper Guardrails for Shifting Sources
-Fault-tolerant web data acquisition that survives HTML/API changes and rate limits.
-- **Stack:** Python, Playwright, BeautifulSoup, concurrency
-- **Highlights:** anti-fragile selectors, health pings, diff-based detectors, exponential backoff
-- **Link:** https://github.com/richie-p-meyer/scraper_guardrails
+### NHL Game Totals Predictive Modeling
 
-### 3) Churn ML Pipeline — Prod-Style Layout
-End-to-end pipeline for 10k+ records with modular steps, checkpoints, and monitoring hooks.
-- **Stack:** Python, NumPy, scikit-learn, Matplotlib
-- **Highlights:** reproducible runs, drift checks, schema/version snapshots
-- **Link:** https://github.com/richie-p-meyer/ml_churn_pipeline  
+Statistical analysis examining factors influencing scoring environments in NHL games.
 
-### 4) LogLens — Quick Root-Cause Explorer
-Small CLI to slice logs by time/window/request-id, surface anomaly patterns, and compare healthy vs failing runs.
-- **Stack:** Python, rich/typer (CLI), regex, JSONL
-- **Highlights:** “last-known-good vs failing” diff, latency spike finder
-- **Link:** https://github.com/richie-p-meyer/loglens
+- Dataset: **22,118 NHL games with 470+ engineered features**
+- Built regression and machine learning models predicting scoring environments
+- Implemented **time-series validation** to prevent data leakage
+- Achieved **R² ≈ 0.89 on unseen test data**
+
+➡ Project repository: *(link here)*
 
 ---
 
-## Evidence of Excellence
-- **USMC, Afghanistan — mission-critical leadership:** led **40–50 linguists**; time-sensitive ops where actions impacted Marines’ safety. Calm, decisive incident command.
-- **Rubik’s Cube innovation:** early **Roux** method tutorials (tens of thousands of views); created the **Meyer Method (4×4)** adopted by top solvers; helped organize **US Nationals 2012** and **Worlds 2013** (Las Vegas).
-- **50-mile ultramarathon (undiagnosed Type 1 diabetes):** finished despite severe physical collapse; diagnosed 3 weeks later. Extreme grit under adversity.
-- **Ten 10-day Vipassana courses:** 100+ hours per retreat, deep discipline and equanimity under internal/external stress.
+### NBA Awards Forecasting Model
+
+Predictive modeling project forecasting vote share for major NBA awards.
+
+- Dataset: **21 seasons and 13,000+ player-season observations**
+- Used advanced metrics including **BPM, VORP, and Win Shares**
+- Compared **Ridge regression and Gradient Boosting models**
+- Implemented time-based validation for realistic forecasting
+
+➡ Project repository: *(link here)*
 
 ---
 
-## Skills
-**Languages/Tools:** Python, SQL, Git/GitHub, Bash/CLI, Jira, basic Splunk  
-**Concepts:** distributed pipelines, monitoring/alerting, incident response, root-cause analysis, dependency mapping  
-**Python:** Pandas, NumPy, scikit-learn, BeautifulSoup, Playwright, matplotlib
+### Hotel Reservation Cancellation Prediction
+
+Predictive analysis examining patterns in hotel booking cancellations.
+
+- Dataset: **36,238 reservation records**
+- Built neural network models predicting cancellations
+- Achieved **AUC ≈ 0.92**
+- Identified operational drivers of cancellation behavior
+
+➡ Project repository: *(link here)*
 
 ---
 
-## Now Learning / Next Up
-- Prometheus/Grafana basics, alert design, SLO/SLA thinking  
-- Python observability patterns (structured logs, trace IDs)  
-- Infra fundamentals (containers, networking, connection pools)
+### Healthcare Data Privacy & Anonymization
+
+Data governance project preparing healthcare data for secure external audit.
+
+- Applied **HIPAA Safe Harbor anonymization standards**
+- Removed personally identifiable information
+- Evaluated privacy exposure using **k-anonymity principles**
+- Produced secure datasets suitable for regulatory auditing
+
+➡ Project repository: *(link here)*
 
 ---
 
-## Hire Me For
-- **SRE/DevOps track** (support → SRE growth)  
-- **Production troubleshooting & incident response**  
-- **Python automation for reliability**  
-- **On-site, on-call** at Gigafactory Nevada (Sparks)
+## Background
+
+### U.S. Marine Corps – Signals Intelligence Analyst
+
+Analyzed intelligence data streams and produced analytical reports supporting operational decision-making in mission-critical environments.
+
+---
+
+### Education
+
+**Master of Science – Data Science**  
+Merrimack College *(Expected 2026)*
+
+**Data Science Certificate**  
+Codeup
+
+**Bachelor of Science – Natural Resource Recreation & Tourism**  
+Colorado State University
+
+---
+
+## Additional Skills
+
+Spanish – Professional working proficiency  
+Technical writing and analytical reporting  
+Public speaking and teaching experience
 
 ---
 
 ## Contact
-- **Email:** richiewilders@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/richard-meyer-915395106  
-- **Location:** Sparks / Reno, NV
+
+LinkedIn  
+https://linkedin.com/in/richard-wilders-915395106
+
+Email  
+richard16meyer@gmail.com
+
+Location  
+Carson City, Nevada
