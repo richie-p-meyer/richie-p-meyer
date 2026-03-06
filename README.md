@@ -64,7 +64,7 @@ Statistical analysis examining factors influencing scoring environments in NHL g
 - Implemented **time-series validation** to prevent data leakage
 - Achieved **R² ≈ 0.89 on unseen test data**
 
-Project repository: https://github.com/richie-p-meyer/capstone_project
+Project repository: https://github.com/richie-p-meyer/nhl-scoring-environment-analysis
 
 ---
 
